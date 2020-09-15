@@ -1,16 +1,14 @@
-### Hi there 👋
+# Current Projects:
 
-<!--
-**LsHallo/lshallo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## [Anno MDCII](https://github.com/LsHallo/anno-rust) (Progress: ~1%)
+I’m currently working on an Anno 1602 clone in [Rust](https://rust-lang.org/) using [Amethyst](https://amethyst.rs/).  
+A few preview screenshots (Still in early development):
+![](https://i.imgur.com/nZzgKo9.png)
+![](https://i.imgur.com/A9ghtSu.png)
+![](https://i.imgur.com/99jLc3p.png)
+![](https://i.imgur.com/SrOBKzL.png)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## [Ploing](https://github.com/LsHallo/ploing) (Progress: ~85%)
+Multiplayer version of a well known game with a ball and two paddles.
+Uses Node.js as backend with an express webserver and socket.io for realtime communication.
+![](https://i.imgur.com/LWCP8hE.png)
